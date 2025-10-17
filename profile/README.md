@@ -33,10 +33,10 @@ We believe in developing solutions that don’t just work — they inspire confi
 | Area | Technologies |
 |------|---------------|
 | **Frontend** | React, Next.js, Flutter |
-| **Backend** | Node.js, Express, Django |
-| **Database** | PostgreSQL, MongoDB |
-| **Cloud / Tools** | AWS, Firebase, Supabase |
-| **Design** | Figma, Tailwind CSS |
+| **Backend** | Node.js, Express, Django, Go, Nestjs |
+| **Database** | PostgreSQL, MongoDB, Firebase, MySQL, Supabase, Convex |
+| **Cloud / Tools** | AWS |
+| **Design** | Figma |
 
 ---
 
