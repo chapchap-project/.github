@@ -1,3 +1,5 @@
+![ChapChap Projects Banner](./chapchap-banner.png)
+
 # 🚀 Welcome to ChapChap Projects
 
 ### 💡 *Making Technology ChapChap — Fast, Reliable, and Impactful.*
